@@ -1,0 +1,1164 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Living Room ",
+      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775733735/tihvufr2fnq6uag5fnow.webp"
+    }
+  ],
+  "cart": [
+    {
+      "id": "bOllcbjh1z8",
+      "productId": "201",
+      "title": "Koala Sofa Bed [4th Gen]",
+      "colorName": "Beige",
+      "colorHex": "#eaddcf",
+      "price": 1790,
+      "image": "01Sofa.webp",
+      "quantity": 1
+    }
+  ],
+  "bluey": [
+    {
+      "id": "26",
+      "title": "Playtime Collection",
+      "img": "playtime.webp",
+      "discount": "20% off"
+    }
+  ],
+  "featuredCategories": [
+    {
+      "id": "3e59",
+      "categoryName": "Living Room ",
+      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775732250/aqc9ncdadg2qjx46itnj.webp"
+    },
+    {
+      "id": "2",
+      "title": "Bedroom",
+      "img": "brownsofa.webp",
+      "discount": "Up to 30% off"
+    },
+    {
+      "id": "3",
+      "title": "Outdoor",
+      "img": "greenchair.webp",
+      "discount": "12% off"
+    },
+    {
+      "id": "4",
+      "title": "Koala x Bluey",
+      "img": "greenchair.webp",
+      "discount": "Up to 20% off"
+    }
+  ],
+  "secondaryBanner": {
+    "title": "Innovators of the Modern Sofa Bed",
+    "subtitle": "Effortlessly flip from sofa to bed in seconds with our innovative FlipBed™ design.",
+    "buttonText": "Shop Sofa Beds",
+    "videoUrl": "bannervideo.mp4"
+  },
+  "features": [
+    {
+      "id": "1",
+      "img": "Washable.webp",
+      "title": "Washable, replaceable covers",
+      "description": "Keep it clean and change up your style."
+    },
+    {
+      "id": "2",
+      "img": "Trial.webp",
+      "title": "Trial products for 120 days",
+      "description": "If it's not right, send it back."
+    },
+    {
+      "id": "3",
+      "img": "Simple.webp",
+      "title": "Simple tool-free assembly",
+      "description": "Slide-and-click for easy setup & moving."
+    },
+    {
+      "id": "4",
+      "img": "kid.webp",
+      "title": "Kid & pet friendly",
+      "description": "With spill and scratch resistant fabrics."
+    }
+  ],
+  "modularBanner": {
+    "title": "Lifeproof Modular Sofas",
+    "subtitle": "With washable covers and a tool-free modular design to grow with you.",
+    "buttonText": "Explore Modular Sofas",
+    "videoUrl": "second.mp4",
+    "posterUrl": "modular-poster.jpg"
+  },
+  "impacts": [
+    {
+      "id": "1",
+      "img": "koala.webp",
+      "title": "Help us save the koala from extinction",
+      "description": "Your order helps us support koala and wildlife conservation efforts across Australia."
+    },
+    {
+      "id": "2",
+      "img": "for the palnaet.webp",
+      "title": "Giving back to people and planet",
+      "description": "To date we have donated over $23 million in cash and product donations."
+    },
+    {
+      "id": "3",
+      "img": "certified.webp",
+      "title": "We're a Certified B Corporation",
+      "description": "We meet the highest standards for social and environmental impact."
+    }
+  ],
+  "footerLogos": [
+    {
+      "id": "1",
+      "img": "logo1.webp",
+      "alt": "Good Design Award Winner"
+    }
+  ],
+  "cartSuggestions": [
+    {
+      "id": "1",
+      "title": "Mattresses",
+      "image": "Mattress.webp"
+    },
+    {
+      "id": "2",
+      "title": "Sofa Beds",
+      "image": "sofa.webp"
+    },
+    {
+      "id": "3",
+      "title": "Coffee & Side Tables",
+      "image": "coffeetable.webp"
+    },
+    {
+      "id": "4",
+      "title": "Pillows",
+      "image": "Pilows.webp"
+    }
+  ],
+  "livingRoom": {
+    "title": "Living Room",
+    "subtitle": "Everything you need to make your living room yours.",
+    "image": "Desktop_Living.webp",
+    "categories": [
+      {
+        "id": 1,
+        "title": "All Living Room",
+        "image": "allliving_room.webp"
+      },
+      {
+        "id": 2,
+        "title": "Sofa Beds",
+        "image": "sofabeds.webp"
+      },
+      {
+        "id": 3,
+        "title": "Sofas",
+        "image": "Trial.webp"
+      },
+      {
+        "id": 4,
+        "title": "Armchairs",
+        "image": "playtime.webp"
+      },
+      {
+        "id": 5,
+        "title": "Rugs",
+        "image": "Rugs.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Bookshelves",
+        "image": "Book.webp"
+      },
+      {
+        "id": 7,
+        "title": "Coffee & Side Tables",
+        "image": "Coffee.webp"
+      },
+      {
+        "id": 8,
+        "title": "Ottomans",
+        "image": "Otto.webp"
+      },
+      {
+        "id": 9,
+        "title": "Homewares",
+        "image": "Home.webp"
+      },
+      {
+        "id": 10,
+        "title": "Modular Sofas",
+        "image": "sofabeds.webp"
+      }
+    ]
+  },
+  "sofaBedsPage": {
+    "title": "Sofa Beds",
+    "subtitle": "Transform your living room with Australia's #1 rated sofa bed collection from Koala.",
+    "heroImage": "Desktop_Sofabed.webp"
+  },
+  "products": [
+    {
+      "id": "201",
+      "categoryId": 2,
+      "badge": "Upgraded",
+      "badgeColor": "#dce3ba",
+      "title": "Koala Sofa Bed [4th Gen]",
+      "subtitle": "2.5-Seater, 3 Sizes",
+      "rating": 4.8,
+      "reviewCount": 2181,
+      "expressDelivery": true,
+      "sizes": [
+        "3-Seater (Queen)",
+        "2.5-Seater (Double)",
+        "1.5-Seater (Single)"
+      ],
+      "variants": [
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 1790,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 1790,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "202",
+      "categoryId": 2,
+      "badge": "Best seller",
+      "badgeColor": "#d9f0d8",
+      "title": "Cushy Sofa Bed",
+      "subtitle": "3-Seater",
+      "rating": 4.9,
+      "reviewCount": 1502,
+      "expressDelivery": true,
+      "sizes": [
+        "3-Seater (Queen)",
+        "2.5-Seater (Double)"
+      ],
+      "variants": [
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 1950,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Navy",
+          "hex": "#000080",
+          "price": 1950,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "203",
+      "categoryId": 2,
+      "title": "Compact Sofa Bed",
+      "subtitle": "1.5-Seater",
+      "rating": 4.6,
+      "reviewCount": 845,
+      "expressDelivery": false,
+      "sizes": [
+        "1.5-Seater (Single)"
+      ],
+      "variants": [
+        {
+          "colorName": "Blue",
+          "hex": "#7ba4b8",
+          "price": 1200,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Black",
+          "hex": "#000000",
+          "price": 1200,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "301",
+      "categoryId": 3,
+      "badge": "New",
+      "badgeColor": "#fef08a",
+      "title": "Lounging Sofa",
+      "subtitle": "3-Seater",
+      "rating": 4.7,
+      "reviewCount": 320,
+      "expressDelivery": true,
+      "sizes": [
+        "3-Seater",
+        "2.5-Seater",
+        "2-Seater"
+      ],
+      "variants": [
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 1500,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Brown",
+          "hex": "#8b4513",
+          "price": 1500,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "302",
+      "categoryId": 3,
+      "title": "Modern Classic Sofa",
+      "subtitle": "2-Seater",
+      "rating": 4.5,
+      "reviewCount": 112,
+      "expressDelivery": false,
+      "sizes": [
+        "3-Seater",
+        "2-Seater"
+      ],
+      "variants": [
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 1100,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Bronze",
+          "hex": "#cd7f32",
+          "price": 1100,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "303",
+      "categoryId": 3,
+      "badge": "Best seller",
+      "badgeColor": "#d9f0d8",
+      "title": "Family Corner Sofa",
+      "subtitle": "L-Shape Modular",
+      "rating": 4.9,
+      "reviewCount": 950,
+      "expressDelivery": true,
+      "sizes": [
+        "3-Seater Chaise",
+        "4-Seater Chaise"
+      ],
+      "variants": [
+        {
+          "colorName": "Navy",
+          "hex": "#000080",
+          "price": 2800,
+          "images": [
+            "01Sofa.webp",
+            "02Sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 2800,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "401",
+      "categoryId": 4,
+      "title": "Reading Armchair",
+      "subtitle": "Plush Comfort",
+      "rating": 4.8,
+      "reviewCount": 420,
+      "expressDelivery": true,
+      "sizes": [
+        "Standard",
+        "Large"
+      ],
+      "variants": [
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 550,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 550,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "402",
+      "categoryId": 4,
+      "badge": "Upgraded",
+      "badgeColor": "#dce3ba",
+      "title": "Swivel Armchair",
+      "subtitle": "360 Rotation",
+      "rating": 4.6,
+      "reviewCount": 180,
+      "expressDelivery": false,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Black",
+          "hex": "#000000",
+          "price": 650,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Blue",
+          "hex": "#7ba4b8",
+          "price": 650,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "403",
+      "categoryId": 4,
+      "title": "Lounge Armchair",
+      "subtitle": "Extra Wide",
+      "rating": 4.9,
+      "reviewCount": 510,
+      "expressDelivery": true,
+      "sizes": [
+        "Wide",
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 720,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Bronze",
+          "hex": "#cd7f32",
+          "price": 720,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "501",
+      "categoryId": 5,
+      "badge": "Best seller",
+      "badgeColor": "#d9f0d8",
+      "title": "Textured Area Rug",
+      "subtitle": "Large - 200x300cm",
+      "rating": 4.7,
+      "reviewCount": 890,
+      "expressDelivery": true,
+      "sizes": [
+        "200x300cm",
+        "160x230cm"
+      ],
+      "variants": [
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 450,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 450,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "502",
+      "categoryId": 5,
+      "title": "Woven Rug",
+      "subtitle": "Medium - 160x230cm",
+      "rating": 4.5,
+      "reviewCount": 340,
+      "expressDelivery": false,
+      "sizes": [
+        "160x230cm",
+        "200x300cm"
+      ],
+      "variants": [
+        {
+          "colorName": "Blue",
+          "hex": "#7ba4b8",
+          "price": 300,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 300,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "503",
+      "categoryId": 5,
+      "title": "Round Jute Rug",
+      "subtitle": "Diameter 200cm",
+      "rating": 4.8,
+      "reviewCount": 512,
+      "expressDelivery": true,
+      "sizes": [
+        "200cm Diameter",
+        "150cm Diameter"
+      ],
+      "variants": [
+        {
+          "colorName": "Brown",
+          "hex": "#8b4513",
+          "price": 280,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 280,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "601",
+      "categoryId": 6,
+      "badge": "New",
+      "badgeColor": "#fef08a",
+      "title": "Timber Bookshelf",
+      "subtitle": "5 Tier",
+      "rating": 4.9,
+      "reviewCount": 120,
+      "expressDelivery": true,
+      "sizes": [
+        "5 Tier",
+        "3 Tier"
+      ],
+      "variants": [
+        {
+          "colorName": "Brown",
+          "hex": "#8b4513",
+          "price": 590,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Black",
+          "hex": "#000000",
+          "price": 590,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "602",
+      "categoryId": 6,
+      "title": "Ladder Shelf",
+      "subtitle": "Leaning Design",
+      "rating": 4.6,
+      "reviewCount": 210,
+      "expressDelivery": false,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 350,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 350,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "603",
+      "categoryId": 6,
+      "title": "Low Cabinet Display",
+      "subtitle": "3 Tier Wide",
+      "rating": 4.7,
+      "reviewCount": 85,
+      "expressDelivery": true,
+      "sizes": [
+        "Wide",
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 480,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 480,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "701",
+      "categoryId": 7,
+      "badge": "Best seller",
+      "badgeColor": "#d9f0d8",
+      "title": "Round Coffee Table",
+      "subtitle": "Solid Ash Wood",
+      "rating": 4.8,
+      "reviewCount": 670,
+      "expressDelivery": true,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Brown",
+          "hex": "#8b4513",
+          "price": 400,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Black",
+          "hex": "#000000",
+          "price": 400,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "702",
+      "categoryId": 7,
+      "title": "Nesting Side Tables",
+      "subtitle": "Set of 2",
+      "rating": 4.5,
+      "reviewCount": 240,
+      "expressDelivery": true,
+      "sizes": [
+        "Set of 2"
+      ],
+      "variants": [
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 250,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Bronze",
+          "hex": "#cd7f32",
+          "price": 250,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "703",
+      "categoryId": 7,
+      "title": "Storage Coffee Table",
+      "subtitle": "Hidden Compartment",
+      "rating": 4.9,
+      "reviewCount": 415,
+      "expressDelivery": false,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 550,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Blue",
+          "hex": "#7ba4b8",
+          "price": 550,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "801",
+      "categoryId": 8,
+      "title": "Storage Ottoman",
+      "subtitle": "Multipurpose",
+      "rating": 4.6,
+      "reviewCount": 310,
+      "expressDelivery": true,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 320,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Navy",
+          "hex": "#000080",
+          "price": 320,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "802",
+      "categoryId": 8,
+      "badge": "Upgraded",
+      "badgeColor": "#dce3ba",
+      "title": "Lounge Footrest",
+      "subtitle": "Matches Sofa",
+      "rating": 4.8,
+      "reviewCount": 190,
+      "expressDelivery": true,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 250,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 250,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "803",
+      "categoryId": 8,
+      "title": "Round Pouf",
+      "subtitle": "Woven Texture",
+      "rating": 4.5,
+      "reviewCount": 85,
+      "expressDelivery": false,
+      "sizes": [
+        "Small",
+        "Large"
+      ],
+      "variants": [
+        {
+          "colorName": "Bronze",
+          "hex": "#cd7f32",
+          "price": 180,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 180,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "901",
+      "categoryId": 9,
+      "title": "Ceramic Vase",
+      "subtitle": "Handcrafted",
+      "rating": 4.7,
+      "reviewCount": 110,
+      "expressDelivery": true,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 60,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Black",
+          "hex": "#000000",
+          "price": 60,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "902",
+      "categoryId": 9,
+      "badge": "Best seller",
+      "badgeColor": "#d9f0d8",
+      "title": "Throw Blanket",
+      "subtitle": "100% Cotton",
+      "rating": 4.9,
+      "reviewCount": 430,
+      "expressDelivery": true,
+      "sizes": [
+        "Standard"
+      ],
+      "variants": [
+        {
+          "colorName": "Blue",
+          "hex": "#7ba4b8",
+          "price": 95,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 95,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "903",
+      "categoryId": 9,
+      "title": "Cushion Set",
+      "subtitle": "Pack of 2",
+      "rating": 4.6,
+      "reviewCount": 215,
+      "expressDelivery": false,
+      "sizes": [
+        "Pack of 2"
+      ],
+      "variants": [
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 80,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 80,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1001",
+      "categoryId": 10,
+      "badge": "Upgraded",
+      "badgeColor": "#dce3ba",
+      "title": "Modular Corner Unit",
+      "subtitle": "Build your own",
+      "rating": 4.8,
+      "reviewCount": 145,
+      "expressDelivery": true,
+      "sizes": [
+        "Corner Piece"
+      ],
+      "variants": [
+        {
+          "colorName": "Grey",
+          "hex": "#808080",
+          "price": 800,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Brown",
+          "hex": "#8b4513",
+          "price": 800,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1002",
+      "categoryId": 10,
+      "title": "Modular Chaise",
+      "subtitle": "Extend your sofa",
+      "rating": 4.7,
+      "reviewCount": 95,
+      "expressDelivery": true,
+      "sizes": [
+        "Chaise Piece"
+      ],
+      "variants": [
+        {
+          "colorName": "Navy",
+          "hex": "#000080",
+          "price": 750,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Beige",
+          "hex": "#eaddcf",
+          "price": 750,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1003",
+      "categoryId": 10,
+      "badge": "New",
+      "badgeColor": "#fef08a",
+      "title": "Modular Armless Seat",
+      "subtitle": "Center piece",
+      "rating": 4.9,
+      "reviewCount": 60,
+      "expressDelivery": false,
+      "sizes": [
+        "Armless Piece"
+      ],
+      "variants": [
+        {
+          "colorName": "White",
+          "hex": "#ffffff",
+          "price": 600,
+          "images": [
+            "01Sofa.webp",
+            "02sofa.webp",
+            "03Sofa.webp"
+          ]
+        },
+        {
+          "colorName": "Green",
+          "hex": "#6b8e23",
+          "price": 600,
+          "images": [
+            "001Sofa.webp",
+            "002Sofa.webp",
+            "003Sofa.webp"
+          ]
+        }
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
