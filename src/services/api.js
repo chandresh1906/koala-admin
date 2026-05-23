@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000', // Assuming JSON Server runs on port 5000
+  baseURL: 'https://koala-server-jh8n.onrender.com', // Assuming JSON Server runs on port 8000
   headers: {
     'Content-Type': 'application/json',
   },

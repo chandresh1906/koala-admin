@@ -3,21 +3,25 @@
     {
       "id": "1",
       "categoryName": "Living Room ",
-      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775733735/tihvufr2fnq6uag5fnow.webp"
-    }
-  ],
-  "cart": [
+      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775811382/plgapioqxjt9m62nl7el.webp"
+    },
     {
-      "id": "bOllcbjh1z8",
-      "productId": "201",
-      "title": "Koala Sofa Bed [4th Gen]",
-      "colorName": "Beige",
-      "colorHex": "#eaddcf",
-      "price": 1790,
-      "image": "01Sofa.webp",
-      "quantity": 1
+      "id": "d9b1",
+      "categoryName": "Bedroom",
+      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775811428/yho36u48zqbrx58jdqz6.webp"
+    },
+    {
+      "id": "4b6f",
+      "categoryName": "Outdoor",
+      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775811468/bcc3shzjpo5wj6m9eqqp.webp"
+    },
+    {
+      "id": "2934",
+      "categoryName": "Koala x Bluey",
+      "categoryImage": "https://res.cloudinary.com/dx1x8mtc6/image/upload/v1775811524/hbcyn3jzr48htc2kdqkc.webp"
     }
   ],
+  "cart": [],
   "bluey": [
     {
       "id": "26",
@@ -140,7 +144,7 @@
     }
   ],
   "livingRoom": {
-    "title": "Living Room",
+    "title": "Living Room test",
     "subtitle": "Everything you need to make your living room yours.",
     "image": "Desktop_Living.webp",
     "categories": [
@@ -204,7 +208,7 @@
   "products": [
     {
       "id": "201",
-      "categoryId": 2,
+      "categoryId": "1",
       "badge": "Upgraded",
       "badgeColor": "#dce3ba",
       "title": "Koala Sofa Bed [4th Gen]",
@@ -238,11 +242,13 @@
             "003Sofa.webp"
           ]
         }
-      ]
+      ],
+      "productName": "Sofa",
+      "price": "2000"
     },
     {
       "id": "202",
-      "categoryId": 2,
+      "categoryId": "1",
       "badge": "Best seller",
       "badgeColor": "#d9f0d8",
       "title": "Cushy Sofa Bed",
@@ -279,7 +285,7 @@
     },
     {
       "id": "203",
-      "categoryId": 2,
+      "categoryId": "1",
       "title": "Compact Sofa Bed",
       "subtitle": "1.5-Seater",
       "rating": 4.6,
@@ -313,7 +319,7 @@
     },
     {
       "id": "301",
-      "categoryId": 3,
+      "categoryId": "1",
       "badge": "New",
       "badgeColor": "#fef08a",
       "title": "Lounging Sofa",
@@ -351,7 +357,7 @@
     },
     {
       "id": "302",
-      "categoryId": 3,
+      "categoryId": "d9b1",
       "title": "Modern Classic Sofa",
       "subtitle": "2-Seater",
       "rating": 4.5,
@@ -386,7 +392,7 @@
     },
     {
       "id": "303",
-      "categoryId": 3,
+      "categoryId": "4b6f",
       "badge": "Best seller",
       "badgeColor": "#d9f0d8",
       "title": "Family Corner Sofa",
@@ -423,7 +429,7 @@
     },
     {
       "id": "401",
-      "categoryId": 4,
+      "categoryId": "d9b1",
       "title": "Reading Armchair",
       "subtitle": "Plush Comfort",
       "rating": 4.8,

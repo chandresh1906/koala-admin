@@ -27,7 +27,7 @@ const ProductList = () => {
       let fetchedProducts = prodRes.data;
       // Filter if category is selected
       if (selectedCategoryId) {
-        fetchedProducts = fetchedProducts.filter(p => p.categoryId === selectedCategoryId);
+        fetchedProducts = fetchedProducts.filter(p => String(p.categoryId) === String(selectedCategoryId));
       }
       
       setProducts(fetchedProducts);
@@ -83,19 +83,51 @@ const ProductList = () => {
     }
   };
 
+  // THE FIX: Added the helper function to properly format image paths
+  const getImageUrl = (imgString) => {
+    if (!imgString) return '';
+    // If it's a web URL or a Base64 string, use it directly
+    if (imgString.startsWith('http') || imgString.startsWith('data:image')) {
+      return imgString;
+    }
+    // Otherwise, look for it in the assets folder
+    try {
+      return new URL(`../../assets/${imgString}`, import.meta.url).href;
+    } catch (e) {
+      return '';
+    }
+  };
+
   const columns = [
     { name: 'ID', selector: row => row.id, sortable: true, width: '80px' },
     { 
       name: 'Image', 
-      cell: row => <img src={row.image} alt={row.productName} className="w-12 h-12 object-cover rounded" />
+      cell: row => {
+        // Extract the string, then run it through our new getImageUrl helper
+        const rawImgSrc = row.image || (row.variants && row.variants[0] ? row.variants[0].images[0] : '');
+        const finalImgSrc = getImageUrl(rawImgSrc);
+        
+        return <img src={finalImgSrc} alt="product" className="w-12 h-12 object-cover rounded border border-gray-200 bg-white" />
+      }
     },
-    { name: 'Name', selector: row => row.productName, sortable: true },
-    { name: 'Price', selector: row => `$${row.price}`, sortable: true },
+    { 
+      name: 'Name', 
+      selector: row => row.title || row.productName || 'Unknown', 
+      sortable: true 
+    },
+    { 
+      name: 'Price', 
+      selector: row => {
+        const price = row.price || (row.variants && row.variants[0] ? row.variants[0].price : 0);
+        return `$${price}`;
+      }, 
+      sortable: true 
+    },
     { 
       name: 'Category', 
       selector: row => {
         const cat = categories.find(c => String(c.id) === String(row.categoryId));
-        return cat ? cat.categoryName : 'Unknown';
+        return cat ? (cat.categoryName || cat.name) : 'Unknown';
       }
     },
     {
@@ -118,10 +150,10 @@ const ProductList = () => {
 
       <div className="mb-4">
         <label className="font-bold mr-2">Filter by Category:</label>
-        <select value={selectedCategoryId} onChange={handleFilterChange} className="p-2 border rounded">
+        <select value={selectedCategoryId} onChange={handleFilterChange} className="p-2 border rounded outline-none cursor-pointer">
           <option value="">All Categories</option>
           {categories.map(cat => (
-            <option key={cat.id} value={cat.id}>{cat.categoryName}</option>
+            <option key={cat.id} value={cat.id}>{cat.categoryName || cat.name}</option>
           ))}
         </select>
       </div>
